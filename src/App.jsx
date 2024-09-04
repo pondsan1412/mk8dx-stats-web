@@ -173,6 +173,7 @@ function App() {
           </div>
         )}
         <p>developer contect: pondforbusiness@gmail.com</p>
+        <p>github: pondsan1412</p>
       </div>
     </div>
   );
